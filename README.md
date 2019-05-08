@@ -4,9 +4,11 @@
 
 ## Markdown-Übungen
 
-* Punkt 1
-* Punkt 2
-* Punkt 3
+* Überschriften
+* Verlinkungen
+* Todo-Listen
+* Code-Snippets
+
 
 [HTL](https://www.htl-leoben.org)
 
