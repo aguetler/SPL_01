@@ -17,3 +17,10 @@ public static void main() {
 }
 ```
 
+## Aufgaben für heute:
+
+- [ ] git Grundlagen
+- [ ] git Übungen
+- [ ] git in der Kommandozeile (Konsole)
+- [ ] Java Coding-Dojo
+
