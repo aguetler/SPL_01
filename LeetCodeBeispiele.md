@@ -1,6 +1,6 @@
 # LeetCode Beispiele
 
-* [Two Sum](https://leetcode.com/problems/two-sum/), man kann davon ausgehen, dass das Integer-Array aufsteigend sortiert ist
+* [Two Sum](https://leetcode.com/problems/two-sum/)
 * [Valid Parantheses](https://leetcode.com/problems/valid-parentheses/)
 * [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 
